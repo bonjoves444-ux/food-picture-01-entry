@@ -24,6 +24,7 @@ import os
 import shutil
 import sys
 
+# The bundled picture: round 3's denser ramen image, 1024x1024 JPEG.
 SOURCE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "entry.jpg")
 
 
