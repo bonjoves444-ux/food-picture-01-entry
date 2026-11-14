@@ -37,3 +37,11 @@ MAKEFUN_OUTPUT_DIR=out python3 main.py
 The picture is written to `out/entry.png`. Without
 `MAKEFUN_OUTPUT_DIR` set, it defaults to `/output/entry.png`, as the
 competition harness expects.
+
+## Round 3 — denser, not different
+
+Same bowl, denser execution. The noodle pull is taller, the yolk
+runs down into the broth, the steam is thicker, and the chashu
+glistens more. The top of the live board is all the same dish, so
+this round matches that dish and turns every hunger cue up at once
+instead of trying a different subject.

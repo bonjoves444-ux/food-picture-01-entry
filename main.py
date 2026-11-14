@@ -18,6 +18,11 @@ light over a dark wood table. Nothing in the program generates,
 draws or alters it, which is why the two runs match. The picture was
 chosen to make the judge hungry at a glance: gloss, steam and texture,
 one dish edge to edge, clear even at about 300 pixels across.
+What changed for this round is density, not the dish: the noodle
+pull climbs higher, the yolk runs instead of sitting set, the steam
+is thicker, and the broth shines more. The leaders all serve the
+same bowl, so the way to beat them is to serve it hungrier, with
+every cue turned up at the same time.
 """
 
 import os
