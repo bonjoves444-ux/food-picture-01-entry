@@ -4,11 +4,12 @@ Entry for the make.fun **food-picture-01** competition.
 
 ## The piece
 
-A steaming bowl of ramen filling the frame edge to edge. Wooden
-chopsticks lift a swirl of glossy noodles from a rich amber broth,
-a halved soft-boiled egg with a jammy golden yolk, glistening slices
-of chashu pork, chili oil swirls, scallions and nori, steam rising.
-Warm light, deep colour, sharp texture.
+A steaming bowl of tonkotsu ramen filling the frame edge to edge.
+Wooden chopsticks lift a HIGH glossy noodle pull above a creamy
+broth, a halved soft-boiled egg with a runny orange yolk oozing front
+and center, three glistening slices of chashu pork, chili oil swirls,
+scallions, sesame and nori, thick steam curling through warm bokeh
+light over a dark wood table. Every hunger signal stacked at once.
 
 The judge weighs five things in order: it makes you hungry, the food
 looks fresh and real with texture you can almost taste, styling and
